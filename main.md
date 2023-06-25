@@ -53,7 +53,7 @@ The NEC shall be the governing body of the Party and shall consist of at least t
 - Managing the Party's finances.
 - Overseeing the conduct of Party elections.
 
-If at any point, the NEC ceases to exist or is not yet formed then the responsibilities will be given to the party officers. Until such time as the NEC is elected, the leader will take.
+If at any point, the NEC ceases to exist or is not yet formed then the responsibilities will be given to the party officers. Until such time as the NEC is elected, the leader will take responsibility.
 
 ### Section 2: Officers
 
