@@ -7,7 +7,7 @@ The official name of the organisation (“the Party”) shall be “Pirate Party
 The Pirate Party UK (PPUK) is dedicated to the reform of laws in the United Kingdom in accordance with its Principles.
 
 The Party operates with the consent of its Members and upholds the following Principles:
-1. Defend Human Rights: The Pirate Party UK recognizes that the protection of human rights is essential for ensuring freedom and equality for all individuals, including LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues.
+1. Defend Human Rights: The Pirate Party UK recognises that the protection of human rights is essential for ensuring freedom and equality for all individuals, including all protected characteristics as listed in the Equality Act 2010 (such as LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues).
 2. Knowledge, Ideas, and Culture: The Party believes that society thrives through the sharing of knowledge, ideas, and culture. It advocates for freedom of thought and expression, protected by the rule of law.
 3. Human Dignity and Participation: The Pirate Party UK upholds the inviolable nature of human dignity. Every person has the right to life, freedom of thought, self-determination, and meaningful participation in society.
 4. Equality and Transparency: The Party promotes equality under the law and strives for inclusive governance. It emphasizes that everyone should have a voice in the structure and processes of governance and the right to access information about decisions made on their behalf.
