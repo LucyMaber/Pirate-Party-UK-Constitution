@@ -36,6 +36,32 @@ In the furtherance of its aims, the Party may:
 ### Branches
 The Party may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organizing local activities and promoting the Party's aims and objectives within their respective areas.
 
+Branches shall have the autonomy to manage their internal affairs, including the election of branch officers and the development of branch-specific by-laws, provided that such by-laws are consistent with the party's constitution and approved by the NEC.
+
+The NEC shall guide and support branches to facilitate their effective operation and alignment with the party's overall goals. This support may include training, resources, and party communication platform access.
+
+Branches shall maintain regular communication with the NEC and provide updates on their activities, achievements, and challenges. This communication will make sure that the central party and its local branches are coordinating.
+
+Branches may organize local events, campaigns, and outreach activities to engage with the community and promote the party's platform. These activities shall be conducted in a manner consistent with the party's values and principles.
+
+The NEC may establish criteria for the recognition and accreditation of branches. Such criteria may include minimum membership thresholds, party constitution adherence, and regular reporting of branch activities.
+
+Branches shall encourage active participation by party members within their geographic areas and foster a sense of community and shared purpose among members.
+
+The NEC may dissolve or suspend a branch in cases of gross misconduct, repeated violations of party policies, or failure to meet established criteria for recognition. Dissolution or suspension shall follow a fair and transparent process, including an opportunity for the branch to address concerns and rectify issues.
+
+Local branch officers shall be responsible for representing their respective branches' interests and concerns at the national level. They shall participate in NEC meetings as required and convey information and feedback from their branches to the central party leadership.
+
+The establishment, operation, and dissolution of branches shall be governed by procedures outlined in the party's constitution and any relevant by-laws.
+
+Branches shall collaborate with other branches and party units to enhance the overall effectiveness and reach of the Pirate Party UK in advancing its mission and objectives.
+
+The party shall encourage the establishment of branches in regions where there is a significant concentration of party members, with the aim of extending the party's influence and impact at the local level.
+
+Branches shall be accountable to the NEC and the party membership for their actions and decisions, ensuring alignment with the party's values and objectives.
+
+Financial management for branches shall be the responsibility of the NEC treasurer. Branches are not considered financial autonomous units and do not have separate financial oversight. While branches do not have separate treasurers or financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to branch activities.
+
 ### Volunteerism
 The party relies on the volunteer efforts of its members to achieve its goals. Members are encouraged to volunteer their time and talents in support of the party's activities and campaigns. The party will make a good-faith effort to provide opportunities for members to engage in meaningful volunteer work.
 
@@ -253,8 +279,8 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 
 2. The quorum shall typically be set as a percentage of eligible members, ensuring that the meeting has a sufficient level of participation for decision-making.
 
-3.  all General Meetings and NEC shall have a quorum of 51% of NEC officeses.
-
+3.  All General Meetings shall have a quorum set as a percentage of eligible NEC offices.
+ 
 #### (c) Business Conducted
 
 1. General meetings may address a range of party-related matters, including but not limited to:
@@ -267,6 +293,29 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
    f. Any other business relevant to the party's mission and operation.
 
 2. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
+
+## Local branches
+Local branches of Pirate Party UK shall hold regular meetings to discuss regional matters, coordinate local activities, and engage with members in their respective areas.
+
+Local branch meetings may be held in person or virtually, as determined by the local branch leadership or in accordance with any applicable regulations or restrictions.
+
+Party members residing within the jurisdiction of a local branch are eligible to attend and participate in local branch meetings.
+
+The quorum for local branch meetings shall be determined by the local branch leadership and communicated to members in advance.
+
+Local branch meetings may address regional party-related matters, including but not limited to:
+
+a. Planning and organizing local events and campaigns.
+
+b. Recruitment and engagement of local volunteers.
+
+c. Discussion of regional policies and issues.
+
+d. Reporting on local activities and progress.
+
+e. Any other business relevant to the local branch's mission and operation.
+
+The agenda for local branch meetings shall be prepared by the local branch leadership or as specified in the party's internal rules and guidelines.
 
 ## NEC Meetings
 (a) The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
