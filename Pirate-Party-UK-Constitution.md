@@ -463,7 +463,7 @@ By-laws are binding on all party members, officers, and units. Failure to comply
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
 
 
-Section XX: Subcommittees and Working Groups
+Section 16: Subcommittees and Working Groups
 
 1. Purpose and Establishment
 
@@ -493,7 +493,7 @@ Section XX: Subcommittees and Working Groups
 
 4. Meetings
 
-4.1. Subcommittees and Working Groups shall convene regular meetings to facilitate their activities and objectives.
+4.1. Subcommittees and Working Groups may convene regular meetings to facilitate their activities and objectives.
 
 4.2. The frequency of Subcommittees and Working Group meetings shall be determined by each Subcommittees and Working Group's leadership but should occur regularly to ensure progress toward their goals.
 
