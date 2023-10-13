@@ -406,7 +406,7 @@ Detailed minutes of the meeting or audio recordings shall be taken during local 
 
 These local branch committee meetings shall serve as a mechanism for local branches to effectively coordinate their activities, engage with members, and address regional matters in alignment with the party's mission and constitution. Local branches may establish their own by-laws for the operation of their committees, which shall be consistent with the party's constitution and approved by the NEC.
 
-# Section 14: By-Laws
+# (14) By-Laws
 ### 14.1 Purpose of By-Laws
 
 By-laws serve as supplementary regulations to the party's constitution. They provide additional details, procedures, and guidelines to ensure the effective functioning of the party and its various units, including branches, committees, and working groups.
