@@ -263,7 +263,7 @@ In cases where the Leader's position is vacant, and despite reasonable efforts, 
 In such a case, the Party shall take all necessary steps to initiate the dissolution process. Any remaining Party assets, after settling outstanding obligations, shall be donated to a registered charity.
 
 
-## Section 12: Financial Management
+## (12) Financial Management
 
 The financial management of Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
 
@@ -286,16 +286,16 @@ The Party acknowledges that failure to comply with its legal obligations, as out
 
 The Party shall promote compliance with the Act and its legal financial obligations among its members and officers, as outlined in the Financial Scheme.
 
-### Section 12: AMENDING THE CONSTITUTION
+### (13): AMENDING THE CONSTITUTION
 
-#### 12.1 Proposing Amendments
+#### 13.1 Proposing Amendments
 Any member of Pirate Party UK may propose amendments to this constitution by submitting the proposed changes in writing to the National Executive Committee (NEC).
 
 Proposed amendments must be submitted with a clear and concise explanation of the rationale behind the changes.
 
 The NEC shall review the proposed amendments and consider their impact on the Party's principles and operations.
 
-#### 12.2 Approval Process
+#### 13.2 Approval Process
 Amendments to this constitution shall be approved by a vote of the Party's membership unless specified as an exception in subsection (c) below.
 
 The NEC shall organize a vote on proposed amendments within a reasonable time frame, not to exceed 60 days from the date of submission of the proposed amendments.
@@ -304,7 +304,7 @@ Party members in Good Standing, as defined in Section 10, shall be eligible to v
 
 Proposed amendments shall be considered approved if they receive a two-thirds (2/3) majority of the votes cast by eligible members.
 
-#### 12.3 Exception: NEC-Initiated Amendments
+#### 13.3 Exception: NEC-Initiated Amendments
 The NEC may propose and implement amendments to this constitution without the need for a membership vote in the following exceptional circumstances:
 
    1. Legal Compliance: When amendments are necessary to ensure compliance with relevant laws and regulations.
@@ -318,24 +318,24 @@ Emergency amendments shall be clearly communicated to the Party's membership, an
 
 
 
-### Section 13: PARTY MEETINGS
+### Section 14: PARTY MEETINGS
 
 
-#### 13.1 General Meetings
+#### 14.1 General Meetings
 Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
 
 General meetings may be held in-person or virtually, as determined by the National Executive Committee (NEC) or in accordance with any applicable regulations or restrictions.
 
 Party members in Good Standing, as defined in Section 10, are eligible to attend and participate in general meetings.
 
-#### 13.2 Quorum
+#### 14.2 Quorum
 A quorum for general meetings shall be determined by the NEC and communicated in advance to members.
 
 The quorum shall typically be set as a percentage of eligible members, ensuring that the meeting has a sufficient level of participation for decision-making.
 
 all General Meetings and NEC shall have a quorum typically be set as a percentage of  NEC officeses.
 
-#### 13.3 Business Conducted
+#### 14.3 Business Conducted
 General meetings may address a range of party-related matters, including but not limited to:
 
    
@@ -351,7 +351,7 @@ General meetings may address a range of party-related matters, including but not
 
 The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
-### 13.4 Local Branch Meetings
+### 14.4 Local Branch Meetings
 
 Local branches of Pirate Party UK shall hold regular meetings to discuss regional matters, coordinate local activities, and engage with members in their respective areas.
 
@@ -380,7 +380,7 @@ The agenda for local branch meetings shall be prepared by the local branch leade
 Local branches may establish their own by-laws, which shall be consistent with the party's constitution and approved by the NEC. These by-laws may govern the organization and operation of the local branch, including the election of local branch officers, decision-making processes, and other matters specific to the local branch.
 
 
-### 13.5 NEC Meetings
+### 14.5 NEC Meetings
 The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
 The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. NEC Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee NEC members.
@@ -391,7 +391,7 @@ The NEC shall strive to make decisions through consensus, with each officer on t
 Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
 
 
-###  13.6 Local Branch Committee Meetings
+###  14.6 Local Branch Committee Meetings
 Local branches of Pirate Party UK shall establish local branch committees responsible for coordinating branch activities and making decisions regarding local matters. These committees shall hold regular meetings to discuss branch affairs, plan events, and engage with branch members.
 
 Local branch committee meetings may be conducted in person, online, or through a combination of both, as determined by the local branch committee. Meetings will be announced to local branch members no later than 7 days in advance, except in emergency situations, and are aimed to occur at regular intervals.
@@ -406,15 +406,15 @@ Detailed minutes of the meeting or audio recordings shall be taken during local 
 
 These local branch committee meetings shall serve as a mechanism for local branches to effectively coordinate their activities, engage with members, and address regional matters in alignment with the party's mission and constitution. Local branches may establish their own by-laws for the operation of their committees, which shall be consistent with the party's constitution and approved by the NEC.
 
-# Section 14: By-Laws
-### 14.1 Purpose of By-Laws
+# Section 15: By-Laws
+### 15.1 Purpose of By-Laws
 
 By-laws serve as supplementary regulations to the party's constitution. They provide additional details, procedures, and guidelines to ensure the effective functioning of the party and its various units, including branches, committees, and working groups.
 
 By-laws are intended to clarify and operationalize the principles and provisions outlined in the party's constitution.
 
 
-### 14.2 Adoption and Amendment of By-Laws
+### 15.2 Adoption and Amendment of By-Laws
 
 By-laws may be adopted or amended by a vote of the National Executive Committee (NEC) or by a vote of the party membership, as specified in the party's constitution.
 
@@ -422,7 +422,7 @@ Proposed by-laws or amendments to existing by-laws must be submitted in writing 
 
 The adoption or amendment of by-laws shall require a clear majority vote, as specified in the party's constitution.
 
-### 14.3 Types of By-Laws
+### 15.3 Types of By-Laws
 By-laws may cover a wide range of topics, including but not limited to:
 
 1. The structure and operation of local branches.
@@ -436,42 +436,42 @@ By-laws may cover a wide range of topics, including but not limited to:
 
 By-laws may be specific to different units or levels of the party, provided that they do not conflict with the party's constitution.
 
-### 14.4 Transparency and Accessibility
+### 15.4 Transparency and Accessibility
 All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
 Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## 14.4 Transparency and Accessibility
+## 15.5 Transparency and Accessibility
 All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
 Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## 14.5 Compliance with Constitution
+## 15.6 Compliance with Constitution
 The party's constitution is the foundational document that establishes the fundamental principles, structure, and rules governing the party. In all matters, the party's constitution shall hold supreme authority, second only to the law and the financial scheme.
 
 All by-laws, rules, and procedures outlined herein shall be in strict alignment with the provisions and principles set forth in the party's constitution. In the event of any inconsistency or conflict between the constitution and these by-laws, the constitution shall prevail.
 
-## 14.6 Compliance with Financial Scheme
+## 15.8 Compliance with Financial Scheme
 The party's financial scheme outlines the policies and procedures related to the management of party finances. By-laws shall ensure compliance with the party's financial scheme, including procedures and responsibilities for financial reporting, transparency, and accountability, in accordance with legal requirements.
 
-## 14.7 Compliance with Applicable Law
+## 15.7 Compliance with Applicable Law
 In all matters, the Applicable Law shall hold supreme authority. By-laws shall also ensure compliance with applicable laws and regulations. They shall outline the procedures and responsibilities necessary to adhere to legal requirements in all party activities.
 
 
-### 14.6 Review and Revision
+### 15.9 Review and Revision
 By-laws shall be subject to periodic review to ensure their relevance and effectiveness in supporting the party's mission and goals.
 
 The NEC or the relevant governing body shall oversee the review and revision of by-laws, and proposed changes shall be presented for approval in accordance with the procedures outlined in the party's constitution.
 
 Party members are encouraged to provide input and feedback on by-laws to contribute to their improvement and alignment with the party's values and objectives.
 
-### 14.7 Enforceability
+### 15.10 Enforceability
 By-laws are binding on all party members, officers, and units. Failure to comply with by-laws may result in disciplinary action in accordance with the party's constitution and established procedures.
 
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
 
 
-Section 16: Subcommittees and Working Groups
+## (16) Subcommittees and Working Groups
 
 16.1. Purpose and Establishment
 
